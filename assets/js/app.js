@@ -1,21 +1,4 @@
 
-// for (let i = 1; i <= 10; i++) {
-//     console.log(`5 x ${i} = ${5 * i}`);
-// }
-
-// // While loop
-// let j = 0;
-// while (j < 5) {
-//     console.log(" While loop: " + j);
-//     j++;
-// }
-
-// // Do-while loop
-// let k = 0;
-// do {
-//     console.log(" Do-while loop: " + k);
-//     k++;
-// } while (k < 8);
 let table = 8;
 let result = "";
 for (let i = 1; i <= 10; i++) {
